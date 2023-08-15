@@ -18,7 +18,7 @@ async function main() {
   const signer = new ethers.Wallet(privateKey, provider);
 
   // Tthe address of the deployed contract
-  const contractAddress = "0x5C466002629655EE6e62e91a37722D17d97067E7";
+  const contractAddress = "0x1e183227796DF322C4eEB6Ea51dC75E7d2511566";
 
   // Get the contract factory and attach it to the signer
   const IndianNFT = await ethers.getContractFactory("Indian_ETH", signer);
@@ -28,7 +28,7 @@ async function main() {
   await contract.mint(5);
 
   // Log a message to the console to indicate that the tokens have been minted
-  console.log("Minted 5 tokens");
+  console.log("Minted tokens are 5..!!");
 }
 
 main()

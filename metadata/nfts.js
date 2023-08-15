@@ -1,28 +1,28 @@
 const nfts = [
     {
         name: '0',
-        description: 'This is the first or cover image of Indian NFT collection.',
-        image: 'QmXJ9oWFeqfaBj192SFyR778N4hpxcEEnSRD4LSsrGJZbo'
+        description: 'This is the first or cover image of NFT collection.',
+        image: 'QmSMarS5ZzHmbNFgLvoJjiUBvjhaqeBSuDK5R9WG9uXcMe'
     },
     {
         name: '1',
-        description: 'This is a generic image NFT in the Indian NFT collection.',
-        image: 'QmScc9FAeTL38GT8be4HhbN6FGM7cCFYubgSEcjbAyA2PD'
+        description: 'This is a generic image NFT in the NFT collection.',
+        image: 'QmUhzFix3p7j7nBDedKS5wP9fnDWk9PD6Q57kgW98hRWML'
     },//change
     {
         name: '2',
-        description: 'This is a generic image NFT in the Indian NFT collection.',
-        image: 'Qmctqj2EfJCMdGAQDe9ZNHoHBF2uYqr1FMeGjFKdhnvMrY'
+        description: 'This is a generic image NFT in the NFT collection.',
+        image: 'QmcJSSUUVqgHEveLzwvBou6n9uUw645XxraBuUAUHA2rim'
     },
     {
         name: '3',
-        description: 'This is a generic image NFT in the Indian NFT collection.',
-        image: 'QmT9ky6uHYrcsGfnwR3CNw42BhVzpdxzHNbt2Ur7CWeBXb'
+        description: 'This is a generic image NFT in the NFT collection.',
+        image: 'QmXt1MJuTc91i8MiWhkvDFVJbosGkZwgDcMuSMwBVTLqrB'
     },
     {
         name: '4',
-        description: 'This is the ultimate image NFT in the Indian NFT collection.',
-        image: 'Qmb213J5N7PMncoDBL4rAX31NkXQVB4VRihWocPXnx6NTq'
+        description: 'This is the ultimate image NFT in the NFT collection.',
+        image: 'QmS43SggqeUQjnxm4zXbghmzdSXfM1GH9FZ8q6XdquJzBB'
     },    
 ];
 

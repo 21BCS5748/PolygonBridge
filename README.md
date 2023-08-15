@@ -6,12 +6,10 @@ This is the first project in Polygon-Advance, in this project, I was tasked to d
 
 ### Executing program
 
-Download the codes by downloading the entire repository which will give you access to other contents of the repository. Navigate to the Poly_Proof project directory,  run:
+Download the codes by downloading the entire repository which will give you access to other contents of the repository. Navigate to the Poly_Proof project directory, run:
 
 ```shell
-
- npm install
-
+npm install
 ```
 
 After installing the dependencies, run the test file by using the following command:
@@ -50,13 +48,7 @@ Run the following commands to approve and deposit the minted NFTs from Ethereum 
 npx hardhat run scripts/approveDeposit.js --network goerli
 ```
 
-
-
-## Author
-
-[Tushar Gangurde](https://github.com/Tushar282002)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-You can make a copy of the project to use for your own purposes.
+
